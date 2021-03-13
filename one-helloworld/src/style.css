@@ -1,0 +1,12 @@
+body{
+  background-color: #242B2E;
+}
+
+h1{
+  color: white;
+}
+
+.btn{
+  border-radius: 30px;
+  padding: 5px 10px;
+}
