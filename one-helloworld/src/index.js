@@ -1,9 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
+import './style.css'
 function App(){
   return(
-    <h1>Hello World</h1>
+    <div>
+    <h1 style={{textAlign:'center'}}>Hello World</h1>
+    <button className="btn">Click Me</button>
+
+    </div>
+    
   )
 }
 
